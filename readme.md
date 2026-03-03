@@ -9,7 +9,7 @@ This is a modern, responsive website template built as a front-end practice proj
 
 ## 🎯 Key Features & Concepts Practiced
 
-Semantic HTML structure for better readability and SEO.  
+✔️ Semantic HTML structure for better readability and SEO.  
 ✔️ CSS Flexbox for layout alignment and responsive sections.  
 ✔️ Responsive design using media queries.  
 ✔️ Custom typography using Google Fonts.  
@@ -53,5 +53,6 @@ Template-Three/
 
 ## 💬 Feedback  
 Feel free to open an issue or submit feedback — all suggestions are welcome! 🙌
+
 
 
