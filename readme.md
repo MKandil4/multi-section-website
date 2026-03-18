@@ -5,7 +5,7 @@ A modern, responsive multi-section website built using HTML & CSS, focusing on c
 ---
 
 ## 🌐 Live Demo
-🔗 https://mkandil4.github.io/Template-Three-Elzero/
+🔗  https://mkandil4.github.io/multi-section-website
 
 ---
 
