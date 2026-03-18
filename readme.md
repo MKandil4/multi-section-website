@@ -19,7 +19,7 @@ A modern, responsive multi-section website built using HTML & CSS, focusing on c
 ---
 
 ## 📸 Preview
-![Website screenshot](./screenshot.png)
+![Website screenshot](./elzero-screenshot.png)
 
 ---
 
