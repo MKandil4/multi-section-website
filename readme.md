@@ -19,7 +19,7 @@ A modern, responsive multi-section website built using HTML & CSS, focusing on c
 ---
 
 ## 📸 Preview
-![multi-section-website](./screenshot.png)
+![Website Screenshot](./screenshot.png)
 
 ---
 
